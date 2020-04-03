@@ -4,5 +4,3 @@ npm-debug.log
 .env
 .DS_Store
 credentials.json
-/src/data/answer.json
-/src/tmp/result/answer.json
