@@ -1,0 +1,15 @@
+{
+  "name": "CriptografiaDeJulio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "carlosziegler <carlos.ziegler@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "request": "^2.88.2",
+    "sha1": "^1.1.1"
+  }
+}
